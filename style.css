@@ -1,0 +1,51 @@
+.topBox{
+    border:solid black;
+    height:150px;
+    width:100%;
+}
+
+.topBoxLine1{
+    border:solid black;
+    height:50px;
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+.menu{
+
+}
+.menu{
+
+}
+.menu{
+
+}
+.menu{
+
+}
+.menu{
+
+}
+.menu{
+
+}
+
+.topBoxLine2{
+    border:solid black;
+    height:50px;
+    width:100%;
+    text-align:center;
+    font-size:40px;
+}
+
+.topBoxLine3{
+    border:solid black;
+    height:15px;
+    width:20%;
+    border-radius:50px;
+    text-align:center;
+    margin-left: 50%;
+    margin-right:50%;
+    padding-bottom:10px;
+}
