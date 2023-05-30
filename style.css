@@ -93,3 +93,17 @@
      border:solid black; 
      margin:50px;
     }
+
+.aboutUs{
+    /* border: solid black; */
+text-align:center;   
+}
+
+.line{
+    background-color:white;
+    height:15px;
+}
+
+.icon{
+    
+}
