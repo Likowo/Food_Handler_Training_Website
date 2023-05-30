@@ -49,3 +49,22 @@
     margin-right:50%;
     padding-bottom:10px;
 }
+.firstRow,.secondRow{
+   display:flex;
+   justify-content:space-evenly;
+}
+
+.leftBox{
+ border:solid black; 
+ margin:50px;
+}
+
+.centerBox{
+    border:solid black; 
+    margin:50px;
+   }
+
+   .rightBox{
+    border:solid black; 
+    margin:50px;
+   }
